@@ -13,3 +13,6 @@ misal saya masukkan 1
 ![Screenshot (21)](https://user-images.githubusercontent.com/92738041/139528426-de1a4644-b278-4fbc-9813-feafc0fc120e.png)
 
 maka hasilnya akan keluar luas dan kelilingnya yaitu 3.14 dan 6.28 
+
+![shot](https://user-images.githubusercontent.com/92738041/139529993-133e7e97-0d74-451d-9da7-8fb2450031ff.png)
+
